@@ -2,7 +2,7 @@
 
 **Full Stack Developer** 
 
-+7 years building web applications. I write code that works, write tests because I should, and refactor when things get messy.
++9 years building web applications. I write code that works, write tests because I should, and refactor when things get messy.
 
 ## 🔧 Tech Stack
 
