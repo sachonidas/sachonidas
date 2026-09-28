@@ -2,7 +2,7 @@
 
 **Staff Software Engineer · Backend & distributed systems · AI enablement**
 
-~10 years building backend systems. These days I keep around 75 production repositories healthy at Arsys (IONOS Group) and help my team get real value out of AI coding agents, not just autocomplete.
+~10 years building backend systems. At Arsys (IONOS Group) I work across an ecosystem of around 75 production repositories that my team maintains and upgrades: PHP services built on Slim, legacy systems being modernized, and a Vue/TypeScript frontend using module federation. I also help my team get real value out of AI coding agents, not just autocomplete.
 
 ## 🔧 What I work with
 
